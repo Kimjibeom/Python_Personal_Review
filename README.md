@@ -1,4 +1,4 @@
-# Python_Personal_Study
+# Python_Personal_Review
 
 - 👋 Hi, I’m @Kimjibeom
 - 👀 I’m interested in BIG DATA 
